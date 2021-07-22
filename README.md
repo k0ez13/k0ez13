@@ -34,6 +34,8 @@
  
  <p align="left">
      <a href="mailto:kauardgz@cock.li">
+     <img src="https://img.shields.io/badge/Outlook-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
+
     </a>
 
 </p>
