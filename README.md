@@ -31,14 +31,6 @@
  ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
  ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
  
- **Where to find me:**
- 
- <p align="left">
-     <a href="mailto:kauardgz@cock.li">
-        <img src="https://img.shields.io/badge/Outlook-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
-    </a>
-
-</p>
  
  <details>
     <summary>⚙ <b>GitHub Analytics</b>: </summary>
