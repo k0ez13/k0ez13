@@ -3,7 +3,7 @@
   :purple_heart: Hello welcome! My name is <strong>Kauã</strong><img src="https://komarev.com/ghpvc/?username=k0ez13&color=6C63FF&style=flat-square&label=Views" align="right" alt="Views"><br>
   
 
- > About me: <br> I'm  <strong> 18 years </strong> And currently, I only do useless things that quench my boredom, I like development in different areas, but I see it as a hobby and not a profession.<br>
+ > About me: <br> I'm  <strong> 17 years </strong> And currently, I only do useless things that quench my boredom, I like development in different areas, but I see it as a hobby and not a profession.<br>
 </p>
 
  **Languages and Frameworks:**
