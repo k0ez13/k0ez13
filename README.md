@@ -1,9 +1,9 @@
 <img src="https://github.com/k0ez13/k0ez13/blob/main/Image/developer_activity.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Dev Activity">
 <p align="left"> 
-  :purple_heart: Hello welcome! My name is <strong>Kauã</strong><img src="https://komarev.com/ghpvc/?username=k0ez13&color=6C63FF&style=flat-square&label=Views" align="right" alt="Views"><br>
+  :purple_heart: Hello welcome! My name is <strong>Augusto</strong><img src="https://komarev.com/ghpvc/?username=k0ez13&color=6C63FF&style=flat-square&label=Views" align="right" alt="Views"><br>
   
 
- > About me: <br> I'm  <strong> 17 years </strong> And currently, I only do useless things that quench my boredom, I like development in different areas, but I see it as a hobby and not a profession.<br>
+ > About me: <br> I'm  <strong> 20 years </strong> And currently, I only do useless things that quench my boredom, I like development in different areas, but I see it as a hobby and not a profession.<br>
 </p>
 
  **Languages and Frameworks:**
